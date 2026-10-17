@@ -32,10 +32,10 @@ for i in angka4:
 print("akhir dari program")
 
 # # menggunakan string
-# data_str = "haii maniss"
-# for huruf in data_str:
-#     print(huruf)
-# print("akhir dari program")
+data_str = "haii maniss"
+for huruf in data_str:
+    print(huruf)
+print("akhir dari program")
 
 # print("\nProgram 5.2 While Loop")
 # # while kondisi
