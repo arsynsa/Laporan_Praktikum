@@ -142,7 +142,7 @@ print(f"list biasa = {data_list_biasa}")
 list_2D = [data_0, data_1, 5,6]
 print(f"list 2D = {list_2D}")
 
-# contoh persamaan
+# contoh penggunaan
 peserta_0 = ["Kenneth", 27, "Laki-laki"]
 peserta_1 = ["Argantara", 7, "Laki-laki"]
 peserta_2 = ["Amara", 55, "Wanita"]
